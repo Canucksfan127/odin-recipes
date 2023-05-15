@@ -1,1 +1,1 @@
-# odin-recipes
+This is a final project of HTML called recipes. 
